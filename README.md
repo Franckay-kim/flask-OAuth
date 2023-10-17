@@ -1,2 +1,2 @@
 # flask-OAuth
-Python's flask, OAuth protocol usage example.
+Python's flask OAuth protocol usage example.
